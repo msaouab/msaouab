@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
-  ![](https://komarev.com/ghpvc/?username=msaouab&color=blue)
+<!--   ![](https://komarev.com/ghpvc/?username=msaouab&color=blue) -->
 </p>
 
  ---
