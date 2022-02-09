@@ -35,7 +35,7 @@
 <a href="https://twitter.com/msaouab">
  <img src="/img/twitter.png" width="40" />
 </a>
-<a href="https://www.instagram.com/msaouab/">
+<a href="https://www.instagram.com/themedsaouab/">
  <img src="/img/instagram.png" width="40" />
 </a>
   </p>
