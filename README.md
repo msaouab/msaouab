@@ -11,7 +11,7 @@
 </p>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
+![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
 </div>
   
   ---
