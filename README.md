@@ -1,25 +1,24 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Mohamed Saouab, (msaouab)</h1>
-
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
-<!--   ![](https://komarev.com/ghpvc/?username=msaouab&color=blue) -->
+<h1 align="center">
+	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Mohamed
+	Saouab, (msaouab)</h1>
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
 </p>
+<p align="center">
+	<a href="https://github.com/msaouab">
+		<img src="https://badge42.herokuapp.com/api/stats/msaouab?darkmode=true&cursus=42cursus" />
+	</a>
+</p>
+<div align="center">
 
- ---
- 
- <div align="center">
-  
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=msaouab)](https://github.com/mohouyizme/1337-readme)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
-  </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
+</div>
   
   ---
  
- | [![YOPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) | [![YOPI's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&layout=compact&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) |
+ | [![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) | [![MED's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&layout=compact&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) |
 |:-:|:-:|
-
  ---
- 
 <h1 align="center">Let's connect</h1>
   
 <p align="center">
