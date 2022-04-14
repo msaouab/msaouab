@@ -5,10 +5,14 @@
 	<img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
 </p>
 <p align="center">
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" alt="msaouab's 42 stats" /></a>
+</p>
+
+<!-- <p align="center">
 	<a href="https://github.com/msaouab">
 		<img src="https://badge42.herokuapp.com/api/stats/msaouab?darkmode=true&cursus=42cursus" />
 	</a>
-</p>
+</p> -->
 <div align="center">
 
 ![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
