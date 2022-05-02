@@ -1,7 +1,7 @@
 <h1 align="center">
 	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Mohamed
 	Saouab, (msaouab)</h1>
-	I recently started coding! Since June 2021 I'm a student at 1337 khouribga (42 Network) and will publish my recent projects here. If you like to find out more about this coding school and its exceptional education model: https://1337.ma/en/ or https://42.fr/en/homepage/
+	I'm a student at 1337 khouribga (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you like to find out more about this coding school and its exceptional education model: https://1337.ma/en/ or https://42.fr/en/homepage/
 	</br>
 	</br>
 	
