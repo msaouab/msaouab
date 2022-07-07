@@ -24,11 +24,12 @@
 </div>
 
 ---
-  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab&theme=onedark&row=1&column=7&align=center" alt="msaouab"/></a>
-  
-  ---
- 
+<p align=center>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab&theme=onedark&row=1&column=7" alt="msaouab"/></a>
+</p>
+
+---
+
  | [![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) | [![MED's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&layout=compact&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) |
 |:-:|:-:|
  ---
