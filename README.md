@@ -12,8 +12,6 @@
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" alt="msaouab's 42 stats" /></a>
 </p>
 <!-- <p> -->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab" 			alt="msaouab" />
-	</a>
 <!-- </p> -->
 <!-- <p align="center">
 	<a href="https://github.com/msaouab">
@@ -24,6 +22,10 @@
 
 ![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
 </div>
+
+---
+  
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab&theme=onedark&row=1&column=7&align=center" alt="msaouab"/></a>
   
   ---
  
