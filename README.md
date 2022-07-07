@@ -11,7 +11,10 @@
 <p align="center">
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" alt="msaouab's 42 stats" /></a>
 </p>
-
+<!-- <p> -->
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab" 			alt="msaouab" />
+	</a>
+<!-- </p> -->
 <!-- <p align="center">
 	<a href="https://github.com/msaouab">
 		<img src="https://badge42.herokuapp.com/api/stats/msaouab?darkmode=true&cursus=42cursus" />
