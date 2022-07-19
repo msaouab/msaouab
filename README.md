@@ -1,6 +1,7 @@
 <h1 align="center">
 	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="40" height="40">, I'm Mohamed Saouab, (msaouab)</h1>
-<p align="center>
+
+<p align="center">
 	I'm a student at 1337 khouribga (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you 
 	like to find out more about this coding school and its exceptional education model: <a href="https://1337.ma/en/" target="_blank">1337 School!		</a> or <a href="https://42.fr/en/homepage/" target="_blank">42 School!</a>
 </p>
@@ -15,14 +16,14 @@
 
 ---
 
-<p>
+<p align="center">
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" alt="msaouab's 42 stats" /></a>
 	<a href="http://www.github.com/msaouab"><img src="https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="msaouab's GitHub stats" /></a>
 </p>
 
 ---
 
-<p align=center>
+<p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab&theme=onedark&row=1&column=7" alt="msaouab"/></a>
 </p>
 
