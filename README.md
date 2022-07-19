@@ -8,7 +8,6 @@
 ---
 
 </br>
-<!-- </br> -->
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
@@ -16,23 +15,10 @@
 
 ---
 
-<p align="center">
+<p>
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" alt="msaouab's 42 stats" /></a>
+	<a href="http://www.github.com/msaouab"><img src="https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="msaouab's GitHub stats" /></a>
 </p>
-
----
-
-<!-- <p> -->
-<!-- </p> -->
-<!-- <p align="center">
-	<a href="https://github.com/msaouab">
-		<img src="https://badge42.herokuapp.com/api/stats/msaouab?darkmode=true&cursus=42cursus" />
-	</a>
-</p> -->
-<div align="center">
-
-![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&theme=cobalt)
-</div>
 
 ---
 
@@ -41,10 +27,11 @@
 </p>
 
 ---
-<!-- <p align="center"> -->
- | [![MED's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaouab&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) | [![MED's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&layout=compact&hide_border=true&theme=dracula)](https://github.com/msaouab?tab=repositories) |
-|:-:|:-:|
-<!-- </p> -->
+
+<p align="center">
+<a href="https://github.com/msaouab" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
 ---
 
 <h1 align="center">Let's connect</h1>
