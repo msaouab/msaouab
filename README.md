@@ -16,9 +16,9 @@
 
 ---
 
-<p align="center">
-	<a href="https://github.com/oakoudad/badge42" align="left"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" alt="msaouab's 42 stats" /></a>
-	<a href="http://www.github.com/msaouab"><img src="https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="msaouab's GitHub stats" /></a>
+<p>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/msaouab" align="left" alt="msaouab's 42 stats" /></a>
+	<a href="http://www.github.com/msaouab"><img src="https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" align="right" alt="msaouab's GitHub stats" /></a>
 </p>
 
 ---
