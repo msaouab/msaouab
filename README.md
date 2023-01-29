@@ -52,3 +52,6 @@
 	<img alt="msaouab's followers" src="https://img.shields.io/github/followers/msaouab?color=blue" />
 	<img alt="msaouab's stars" src="https://img.shields.io/github/stars/msaouab?color=blue" />
 </p>
+
+
+![snake gif](https://github.com/msaouab/msaouab/blob/output/github-contribution-grid-snake.gif)
