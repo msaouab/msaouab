@@ -53,5 +53,5 @@
 	<img alt="msaouab's stars" src="https://img.shields.io/github/stars/msaouab?color=blue" />
 </p>
 
-<p align="center"><img src="https://github.com/msaouab/msaouab/blob/output/github-contribution-grid-snake.gif">
+<p align="center"><img src="https://github.com/msaouab/msaouab/blob/output/github-contribution-grid-snake.svg">
 </p>
