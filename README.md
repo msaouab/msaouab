@@ -47,6 +47,11 @@
 
 ---
 
+<div align="center"><a href="https://www.buymeacoffee.com/msaouab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
+<div align="center">
+
+---
+
 <p align="center">
 	<img alt="msaouab's visitors" src="https://komarev.com/ghpvc/?username=msaouab&color=blue&style=flat&label=visitors" />
 	<img alt="msaouab's followers" src="https://img.shields.io/github/followers/msaouab?color=blue" />
