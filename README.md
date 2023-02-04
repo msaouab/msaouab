@@ -17,21 +17,12 @@
 ---
 
 <p align="center">
-	<a href="http://www.github.com/msaouab"><img src="https://github-readme-stats.vercel.app/api?username=msaouab&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="msaouab's GitHub stats" /></a>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaouab&theme=dracula"/><br/>
+<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaouab&theme=dracula"/>
+<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaouab&theme=dracula"/>
+<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaouab&theme=dracula"/>
+<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaouab&theme=dracula"/>
 </p>
-
----
-
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaouab&theme=onedark&row=1&column=7" alt="msaouab"/></a>
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/msaouab" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
 
 ---
 
