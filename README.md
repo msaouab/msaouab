@@ -22,6 +22,7 @@
 <img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaouab&theme=dracula"/>
 <img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaouab&theme=dracula"/>
 <img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaouab&theme=dracula"/>
+	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&layout=compact&theme=dracula"/><br/>
 </p>
 
 ---
