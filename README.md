@@ -22,7 +22,7 @@
 <img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaouab&theme=dracula"/>
 <img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaouab&theme=dracula"/>
 <img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaouab&theme=dracula"/>
-	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&layout=compact&theme=dracula"/><br/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&langs_count=8&layout=compact&theme=dracula"/><br/>
 </p>
 
 ---
@@ -39,14 +39,22 @@
 
 ---
 
-<div align="center"><a href="https://www.buymeacoffee.com/msaouab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
 <div align="center">
+	<a href="https://www.buymeacoffee.com/msaouab" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+	</a>
+</div>
+
+<div align="center">
+	<p align="center">
+		<img align="center" src="https://komarev.com/ghpvc/?username=msaouab&color=blue&style=for-the-badge&label=visitors" />
+		<img align="center" src="https://img.shields.io/github/followers/msaouab?color=blue&style=for-the-badge" />
+	</p>
+	<p align="center">
+		<img align="center" src="https://img.shields.io/github/stars/msaouab?color=blue&style=for-the-badge" />
+		<img align="center" src="https://komarev.com/ghpvc/?username=msaouab&&color=blue&style=for-the-badge">
+	</p>
 
 <p align="center">
-	<img alt="msaouab's visitors" src="https://komarev.com/ghpvc/?username=msaouab&color=blue&style=flat&label=visitors" />
-	<img alt="msaouab's followers" src="https://img.shields.io/github/followers/msaouab?color=blue" />
-	<img alt="msaouab's stars" src="https://img.shields.io/github/stars/msaouab?color=blue" />
-</p>
-
-<p align="center"><img src="https://github.com/msaouab/msaouab/blob/output/github-contribution-grid-snake.svg">
+	<img src="https://github.com/msaouab/msaouab/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 </p>
