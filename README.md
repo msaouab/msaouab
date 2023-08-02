@@ -31,10 +31,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/msaouab"><img src="/img/linkedin.png" width="40" /></a>
-	<a href="https://github.com/msaouab"><img src="/img/github-logo.png" width="40" /></a>
-	<a href="https://www.facebook.com/msaouab"><img src="/img/facebook.png" width="40" /></a>
 	<a href="https://twitter.com/msaouab"><img src="/img/twitter.png" width="40" /></a>
-	<a href="https://www.instagram.com/themedsaouab/"><img src="/img/instagram.png" width="40" /></a>
 </p>
 
 ---
