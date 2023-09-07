@@ -2,13 +2,13 @@
 	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="40" height="40">, I'm Mohamed Saouab, (msaouab)</h1>
 
 <p align="start">
-	I'm a student at 1337 khouribga - Um6p (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you 
+	I'm a student at 1337 Khouribga - Um6p (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you 
 	like to find out more about this coding school and its exceptional education model: <a href="https://1337.ma/en/" target="_blank">1337 School!		</a> or <a href="https://42.fr/en/homepage/" target="_blank">42 School!</a>
 </p>
 <p align="start">🌍  I'm based in Morocco</p>
 <p align="start">🖥️  See my portfolio at <a href="https://msaouab.netlify.app/" target="_blank" >Portfolio</a></p>
-<p align="start">🧠  Currently learning React</p>
-<p align="start">🤝  I'm open to collaborating on interesting projects as a developer</p>
+<p align="start">🧠  Currently learning - Angular - Nestjs - Azure_DevOps</p>
+<p align="start">🤝  I'm Full-Stack developer at Alpha10X</p>
 
 ---
 
