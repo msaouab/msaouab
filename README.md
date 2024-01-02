@@ -49,8 +49,12 @@
 <h1 align="center">Let's connect</h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/msaouab" target="_blank"><img src="/img/linkedin.png" width="40" /></a>
-	<a href="https://twitter.com/msaouab" target="_blank"><img src="/img/twitter.png" width="40" /></a>
+	<a href="https://www.linkedin.com/in/msaouab" text-decoration="none">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a>
+	<a href="https://twitter.com/msaouab" text-decoration="none">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+	</a>
 </p>
 
 ---
@@ -64,6 +68,7 @@
 		<img align="center" src="https://img.shields.io/github/stars/msaouab?color=blue&style=for-the-badge" />
 		<img align="center" src="https://komarev.com/ghpvc/?username=msaouab&&color=blue&style=for-the-badge">
 	</p>
+</div>
 
 <p align="center">
 	<img src="https://github.com/msaouab/msaouab/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
