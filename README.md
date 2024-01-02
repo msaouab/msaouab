@@ -3,12 +3,12 @@
 
 <p align="start">
 	I'm a student at 1337 Khouribga - Um6p (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you 
-	like to find out more about this coding school and its exceptional education model: <a href="https://1337.ma/en/" target="_blank">1337 School!		</a> or <a href="https://42.fr/en/homepage/" target="_blank">42 School!</a>
+	like to find out more about this coding school and its exceptional education model: <a href="https://1337.ma/en/" target="_blank">1337 School!</a> or <a href="https://42.fr/en/homepage/" target="_blank">42 School!</a>.
 </p>
 <p align="start">🌍  I'm based in Morocco</p>
-<p align="start">🖥️  See my portfolio at <a href="https://msaouab.netlify.app/" target="_blank" >Portfolio</a></p>
-<p align="start">🧠  my stack TypeScript - React - Angular - Nestjs - Azure_DevOps</p>
-<p align="start">🤝  I'm Full-Stack developer at Alpha10X</p>
+<p align="start">🖥️  See my <a href="https://msaouab.netlify.app/" target="_blank" >portfolio</a></p>
+<p align="start">🧠  my stack TypeScript - React - Angular - Nestjs - Azure DevOps</p>
+<p align="start">🤝  Full-Stack developer at Alpha10X</p>
 
 ---
 
@@ -20,13 +20,28 @@
 
 ---
 
-<p align="center">
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaouab&theme=dracula"/><br/>
-<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaouab&theme=dracula"/>
-<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaouab&theme=dracula"/>
-<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaouab&theme=dracula"/>
-<img height="203em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaouab&theme=dracula"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&langs_count=8&layout=compact&theme=dracula"/><br/>
+<p align="center" width="100%">
+	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
+		<img height="205em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaouab&theme=dark"/>
+	</a>
+	<br/>
+	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
+		<img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaouab&theme=dark"/>
+	</a>
+	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
+		<img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaouab&theme=dark"/>
+	</a>
+	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
+		<img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaouab&theme=dark"/>
+	</a>
+	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
+		<img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaouab&theme=dark"/>
+	</a>
+	<br/>
+	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
+		<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaouab&langs_count=8&layout=compact&theme=dark"/>
+	</a>
+	<br/>
 </p>
 
 ---
@@ -34,8 +49,8 @@
 <h1 align="center">Let's connect</h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/msaouab"><img src="/img/linkedin.png" width="40" /></a>
-	<a href="https://twitter.com/msaouab"><img src="/img/twitter.png" width="40" /></a>
+	<a href="https://www.linkedin.com/in/msaouab" target="_blank"><img src="/img/linkedin.png" width="40" /></a>
+	<a href="https://twitter.com/msaouab" target="_blank"><img src="/img/twitter.png" width="40" /></a>
 </p>
 
 ---
