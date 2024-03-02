@@ -8,7 +8,7 @@
 <p align="start">🌍  I'm based in Morocco</p>
 <p align="start">🖥️  See my <a href="https://msaouab.netlify.app/" target="_blank" >portfolio</a></p>
 <p align="start">🧠  my stack TypeScript - React - Angular - Nestjs - Azure DevOps</p>
-<p align="start">🤝  Full-Stack developer at Alpha10X</p>
+<p align="start">🤝  Full-Stack developer</p>
 
 ---
 
