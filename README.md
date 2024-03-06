@@ -1,6 +1,12 @@
 <h1 align="center">
 	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="40" height="40">, I'm Mohamed Saouab, (msaouab)</h1>
 
+ <p align="center">
+	<img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
+</p>
+
+---
+
 <p align="start">
 	I'm a student at 1337 Khouribga - Um6p (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you 
 	like to find out more about this coding school and its exceptional education model: <a href="https://1337.ma/en/" target="_blank">1337 School!</a> or <a href="https://42.fr/en/homepage/" target="_blank">42 School!</a>.
@@ -18,12 +24,6 @@
 ---
 
 </br>
-
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
-</p>
-
----
 
 <p align="center" width="100%">
 	<a href="https://github.com/msaouab?tab=repositories" target="_blank">
