@@ -8,13 +8,13 @@
 ---
 
 <p align="start">
-	I'm happy publish my recent projects here.
-
+	Software Engineer focusing on DevOps and Cloud Architect Publishing my latest projects, tools, and technical builds here. Enjoy exploring!
 </p>
-<p align="start">🌍  I'm based in Morocco</p>
+
+<p align="start">🌍  I'm based in Morocco, Open to Remote (EMEA) & Relocation</p>
 <p align="start">🖥️  See my <a href="https://msaouab.netlify.app/" target="_blank" >portfolio</a></p>
-<p align="start">🧠  my stack TypeScript - React - Angular - Nestjs - Azure DevOps</p>
-<p align="start">🤝  Full-Stack developer</p>
+<p align="start">🧠  my stack Python - TypeScript - Docker - Kubernetes - Jenkins - ArgoCD - CI/CD - Azure DevOps - React - Angular - NestJS</p>
+<p align="start">🤝  DevOps and Cloud Architect Engineer</p>
 
 <a href="https://github.com/msaouab?tab=repositories" target="_blank">
 	<img src="https://badge.mediaplus.ma/darkblue/msaouab"/>
@@ -55,9 +55,6 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/msaouab" text-decoration="none">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-	</a>
-	<a href="https://twitter.com/msaouab" text-decoration="none">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 	</a>
 </p>
 
