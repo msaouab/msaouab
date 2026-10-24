@@ -8,8 +8,7 @@
 ---
 
 <p align="start">
-	I'm a student at 1337 Khouribga - Um6p (42 Network) I recently started coding here In June 2021 and will publish my recent projects here. If you 
-	like to find out more about this coding school and its exceptional education model: <a href="https://1337.ma/en/" target="_blank">1337 School!</a> or <a href="https://42.fr/en/homepage/" target="_blank">42 School!</a>.
+	I'm happy publish my recent projects here.
 
 </p>
 <p align="start">🌍  I'm based in Morocco</p>
